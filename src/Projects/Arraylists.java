@@ -13,5 +13,10 @@ public class Arraylists {
         System.out.println(list.size());
         System.out.println(list.indexOf(10));
         System.out.println(list.lastIndexOf(50));
+        
+        ArrayList<Integer> lists = new ArrayList<>();
+        lists.add(90);
+        lists.add(100);
+        lists.add(200);
     }
 }
