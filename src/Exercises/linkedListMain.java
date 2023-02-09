@@ -8,6 +8,7 @@ public class linkedListMain {
         System.out.println(list.contains(40));
         System.out.println(list.size());
         System.out.println(list.indexOf(20));
+        System.out.println(list.indexOf(40));
         System.out.println(list);
     }
 }
