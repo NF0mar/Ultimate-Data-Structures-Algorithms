@@ -39,7 +39,7 @@ public class Array {
         for (int i = 0; i < count; i++)
             if(items[i] == item)
                 return i;
-        //return -1
+        //return 
         return -1;
     }
     public void print(){

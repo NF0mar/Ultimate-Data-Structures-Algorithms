@@ -9,7 +9,7 @@ public class Main {
         numbers.insert(90);
         numbers.insert(40);
         numbers.removeAt(2);
-
+	numbers.addLast(70);
         numbers.print();
     }
 }
